@@ -1,5 +1,5 @@
 # ProyectoRana
-Juego en unity 
+Juego 2D en unity plataforma
 
  ## Version
 | Nombre | Versión |
