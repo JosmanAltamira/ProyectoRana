@@ -1,5 +1,5 @@
 # ProyectoRana
-Juego 2D en unity plataforma
+Juego 2D en unity plataforma de rana 
 
  ## Version
 | Nombre | Versión |
